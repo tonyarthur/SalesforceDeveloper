@@ -45,6 +45,10 @@
                 <behavior>Edit</behavior>
                 <field>Codigo_MCI__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Correntista_Banco_Brasil__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
